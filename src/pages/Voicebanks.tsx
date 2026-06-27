@@ -60,7 +60,7 @@ function Voicebanks() {
               <source src={"/demos/maid/maid.mp3"} type="audio/mpeg" />
             </audio>
           </div>
-          <a href="/downloads/daichi.zip" className='download-btn'>
+          <a href="https://github.com/RyanFoxYTT/daichi-yoshida/releases/download/maid/Daichi.CVVC.Maid.zip" className='download-btn'>
             Download Voicebank
           </a>
         </div>
@@ -81,7 +81,7 @@ function Voicebanks() {
               <source src={"/demos/vcvjpn/normal.mp3"} type="audio/mpeg" />
             </audio>
           </div>
-          <a href="/downloads/daichi.zip" className='download-btn'>
+          <a href="https://github.com/RyanFoxYTT/daichi-yoshida/releases/download/vcvjpn/Daichi.VCV.v2026.zip" className='download-btn'>
             Download Voicebank
           </a>
         </div>
@@ -101,7 +101,7 @@ function Voicebanks() {
               <source src={"/demos/grape/grape.mp3"} type="audio/mpeg" />
             </audio>
           </div>
-          <a href="/downloads/daichi.zip" className='download-btn'>
+          <a href="https://github.com/RyanFoxYTT/daichi-yoshida/releases/download/grape/Daichi.CVVC.grape.zip" className='download-btn'>
             Download Voicebank
           </a>
         </div>
@@ -125,7 +125,7 @@ function Voicebanks() {
               <source src={"/demos/cvctri/sample.mp3"} type="audio/mpeg" />
             </audio>
           </div>
-          <a href="/downloads/daichi.zip" className='download-btn'>
+          <a href="https://github.com/RyanFoxYTT/daichi-yoshida/releases/download/cvctri/daichi.cvc.rus.normal.zip" className='download-btn'>
             Download Voicebank
           </a>
         </div>
@@ -135,7 +135,7 @@ function Voicebanks() {
         <img src={"/arts/boxcard-old.png"} alt="Daichi" />
         <div className='singer-content'>
           <div className='singer-info'>
-            <h3>吉田大地 CVC Mono</h3>
+            <h3>吉田大地 CVC Monopitch</h3>
             <p>Languages: 🇷🇺</p>
             <p>Pithes: Mono</p>
             <p>UTAU</p>
@@ -145,7 +145,7 @@ function Voicebanks() {
               <source src={"/demos/cvcmono/bebe.mp3"} type="audio/mpeg" />
             </audio>
           </div>
-          <a href="/downloads/daichi.zip" className='download-btn'>
+          <a href="https://github.com/RyanFoxYTT/daichi-yoshida/releases/download/cvcmono/daichi.cvc.rus.lol.zip" className='download-btn'>
             Download Voicebank
           </a>
         </div>
@@ -166,7 +166,7 @@ function Voicebanks() {
               <source src={"/demos/grapeichi/pizdec.mp3"} type="audio/mpeg" />
             </audio>
           </div>
-          <a href="/downloads/daichi.zip" className='download-btn'>
+          <a href="https://github.com/RyanFoxYTT/daichi-yoshida/releases/download/GRAPEICHI!!!/Grapechi.CV.V2.zip" className='download-btn'>
             Download Voicebank
           </a>
         </div>
@@ -176,7 +176,7 @@ function Voicebanks() {
         <img src={"/arts/boxcard-old.png"} alt="not a GRAPEICHI" />
         <div className='singer-content'>
           <div className='singer-info'>
-            <h3>Daichi CVVC Multi</h3>
+            <h3>Daichi CVVC Multipitch</h3>
             <p>Languages: 🇯🇵</p>
             <p>Pithes: Multipitch</p>
             <p>UTAU</p>
@@ -186,7 +186,7 @@ function Voicebanks() {
               <source src={"/demos/multi/f.mp3"} type="audio/mpeg" />
             </audio>
           </div>
-          <a href="/downloads/daichi.zip" className='download-btn'>
+          <a href="https://github.com/RyanFoxYTT/daichi-yoshida/releases/download/multi/daichi.cvvc.multipitch.zip" className='download-btn'>
             Download Voicebank
           </a>
         </div>
@@ -206,7 +206,7 @@ function Voicebanks() {
               <source src={"/demos/rentan/rrrr.mp3"} type="audio/mpeg" />
             </audio>
           </div>
-          <a href="/downloads/daichi.zip" className='download-btn'>
+          <a href="https://github.com/RyanFoxYTT/daichi-yoshida/releases/download/rentan/daichi.rentan.cv.zip" className='download-btn'>
             Download Voicebank
           </a>
         </div>
@@ -226,7 +226,7 @@ function Voicebanks() {
               <source src={"/demos/cvvcpower/zhopa.mp3"} type="audio/mpeg" />
             </audio>
           </div>
-          <a href="/downloads/daichi.zip" className='download-btn'>
+          <a href="/downloads/daichi.ziphttps://github.com/RyanFoxYTT/daichi-yoshida/releases/download/cvvcpwr/DAICHI.CVVC.POWER.zip" className='download-btn'>
             Download Voicebank
           </a>
         </div>
@@ -246,7 +246,7 @@ function Voicebanks() {
               <source src={"/demos/vcvold/pressf.mp3"} type="audio/mpeg" />
             </audio>
           </div>
-          <a href="/downloads/daichi.zip" className='download-btn'>
+          <a href="https://github.com/RyanFoxYTT/daichi-yoshida/releases/download/vcvold/daichi.vcv.lol.zip" className='download-btn'>
             Download Voicebank
           </a>
         </div>
