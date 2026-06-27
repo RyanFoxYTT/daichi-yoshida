@@ -21,7 +21,7 @@ function Voicebanks() {
       <h1>Newest</h1>
       
       <div className='singer-boxcard'>
-        <img src={import.meta.env.BASE_URL + "/arts/boxcard.png"} alt="Daichi" />
+        <img src={"/arts/boxcard.png"} alt="Daichi" />
         <div className='singer-content'>
           <div className='singer-info'>
             <h3>吉田大地 AI - Latest Voicebank</h3>
@@ -31,13 +31,13 @@ function Voicebanks() {
           </div>
           <div className='demo-players'>
             <audio controls>
-              <source src={import.meta.env.BASE_URL + "/demos/diffs/russian.mp3"} type="audio/mpeg" />
+              <source src={"/demos/diffs/russian.mp3"} type="audio/mpeg" />
             </audio>
 			<audio controls>
-              <source src={import.meta.env.BASE_URL + "/demos/diffs/english.mp3"} type="audio/mpeg" />
+              <source src={"/demos/diffs/english.mp3"} type="audio/mpeg" />
             </audio>
 			<audio controls>
-              <source src={import.meta.env.BASE_URL + "/demos/diffs/japanese.mp3"} type="audio/mpeg" />
+              <source src={"/demos/diffs/japanese.mp3"} type="audio/mpeg" />
             </audio>
           </div>
           <a href="https://github.com/RyanFoxYTT/daichi-yoshida/releases/download/d_ai_v100/Daichi.AI.v100.zip" className='download-btn'>
@@ -47,7 +47,7 @@ function Voicebanks() {
       </div>
 
       <div className='singer-boxcard'>
-        <img src={import.meta.env.BASE_URL + "/arts/boxcard-maid.png"} alt="Daichi" />
+        <img src={"/arts/boxcard-maid.png"} alt="Daichi" />
         <div className='singer-content'>
           <div className='singer-info'>
             <h3>吉田大地 CVVC MAID</h3>
@@ -57,7 +57,7 @@ function Voicebanks() {
           </div>
           <div className='demo-players'>
             <audio controls>
-              <source src={import.meta.env.BASE_URL + "/demos/maid/maid.mp3"} type="audio/mpeg" />
+              <source src={"/demos/maid/maid.mp3"} type="audio/mpeg" />
             </audio>
           </div>
           <a href="/downloads/daichi.zip" className='download-btn'>
@@ -67,7 +67,7 @@ function Voicebanks() {
       </div>
 
       <div className='singer-boxcard'>
-        <img src={import.meta.env.BASE_URL + "/arts/boxcard.png"} alt="Daichi" />
+        <img src={"/arts/boxcard.png"} alt="Daichi" />
         <div className='singer-content'>
           <div className='singer-info'>
             <h3>吉田大地 VCV JPN</h3>
@@ -78,7 +78,7 @@ function Voicebanks() {
           </div>
           <div className='demo-players'>
             <audio controls>
-              <source src={import.meta.env.BASE_URL + "/demos/vcvjpn/normal.mp3"} type="audio/mpeg" />
+              <source src={"/demos/vcvjpn/normal.mp3"} type="audio/mpeg" />
             </audio>
           </div>
           <a href="/downloads/daichi.zip" className='download-btn'>
@@ -88,7 +88,7 @@ function Voicebanks() {
       </div>
 
       <div className='singer-boxcard'>
-        <img src={import.meta.env.BASE_URL + "/arts/boxcard.png"} alt="Daichi" />
+        <img src={"/arts/boxcard.png"} alt="Daichi" />
         <div className='singer-content'>
           <div className='singer-info'>
             <h3>吉田大地 CVVC Grape</h3>
@@ -98,7 +98,7 @@ function Voicebanks() {
           </div>
           <div className='demo-players'>
             <audio controls>
-              <source src={import.meta.env.BASE_URL + "/demos/grape/grape.mp3"} type="audio/mpeg" />
+              <source src={"/demos/grape/grape.mp3"} type="audio/mpeg" />
             </audio>
           </div>
           <a href="/downloads/daichi.zip" className='download-btn'>
@@ -112,7 +112,7 @@ function Voicebanks() {
       <h1>Older</h1>
 
       <div className='singer-boxcard'>
-        <img src={import.meta.env.BASE_URL + "/arts/boxcard-old.png"} alt="Daichi" />
+        <img src={"/arts/boxcard-old.png"} alt="Daichi" />
         <div className='singer-content'>
           <div className='singer-info'>
             <h3>吉田大地 CVC Tripitch</h3>
@@ -122,7 +122,7 @@ function Voicebanks() {
           </div>
           <div className='demo-players'>
             <audio controls>
-              <source src={import.meta.env.BASE_URL + "/demos/cvctri/sample.mp3"} type="audio/mpeg" />
+              <source src={"/demos/cvctri/sample.mp3"} type="audio/mpeg" />
             </audio>
           </div>
           <a href="/downloads/daichi.zip" className='download-btn'>
@@ -132,7 +132,7 @@ function Voicebanks() {
       </div>
 
       <div className='singer-boxcard'>
-        <img src={import.meta.env.BASE_URL + "/arts/boxcard-old.png"} alt="Daichi" />
+        <img src={"/arts/boxcard-old.png"} alt="Daichi" />
         <div className='singer-content'>
           <div className='singer-info'>
             <h3>吉田大地 CVC Mono</h3>
@@ -142,7 +142,7 @@ function Voicebanks() {
           </div>
           <div className='demo-players'>
             <audio controls>
-              <source src={import.meta.env.BASE_URL + "/demos/cvcmono/bebe.mp3"} type="audio/mpeg" />
+              <source src={"/demos/cvcmono/bebe.mp3"} type="audio/mpeg" />
             </audio>
           </div>
           <a href="/downloads/daichi.zip" className='download-btn'>
@@ -152,7 +152,7 @@ function Voicebanks() {
       </div>
 
       <div className='singer-boxcard'>
-        <img src={import.meta.env.BASE_URL + "/arts/grapechi.png"} alt="GRAPEICHI" />
+        <img src={"/arts/grapechi.png"} alt="GRAPEICHI" />
         <div className='singer-content'>
           <div className='singer-info'>
             <h3>Grapeichi</h3>
@@ -163,7 +163,7 @@ function Voicebanks() {
           </div>
           <div className='demo-players'>
             <audio controls>
-              <source src={import.meta.env.BASE_URL + "/demos/grapeichi/pizdec.mp3"} type="audio/mpeg" />
+              <source src={"/demos/grapeichi/pizdec.mp3"} type="audio/mpeg" />
             </audio>
           </div>
           <a href="/downloads/daichi.zip" className='download-btn'>
@@ -173,7 +173,7 @@ function Voicebanks() {
       </div>
 
       <div className='singer-boxcard'>
-        <img src={import.meta.env.BASE_URL + "/arts/boxcard-old.png"} alt="not a GRAPEICHI" />
+        <img src={"/arts/boxcard-old.png"} alt="not a GRAPEICHI" />
         <div className='singer-content'>
           <div className='singer-info'>
             <h3>Daichi CVVC Multi</h3>
@@ -183,7 +183,7 @@ function Voicebanks() {
           </div>
           <div className='demo-players'>
             <audio controls>
-              <source src={import.meta.env.BASE_URL + "/demos/multi/f.mp3"} type="audio/mpeg" />
+              <source src={"/demos/multi/f.mp3"} type="audio/mpeg" />
             </audio>
           </div>
           <a href="/downloads/daichi.zip" className='download-btn'>
@@ -193,7 +193,7 @@ function Voicebanks() {
       </div>
 
       <div className='singer-boxcard'>
-        <img src={import.meta.env.BASE_URL + "/arts/boxcard-old.png"} alt="not a GRAPEICHI" />
+        <img src={"/arts/boxcard-old.png"} alt="not a GRAPEICHI" />
         <div className='singer-content'>
           <div className='singer-info'>
             <h3>Daichi CV Rentan</h3>
@@ -203,7 +203,7 @@ function Voicebanks() {
           </div>
           <div className='demo-players'>
             <audio controls>
-              <source src={import.meta.env.BASE_URL + "/demos/rentan/rrrr.mp3"} type="audio/mpeg" />
+              <source src={"/demos/rentan/rrrr.mp3"} type="audio/mpeg" />
             </audio>
           </div>
           <a href="/downloads/daichi.zip" className='download-btn'>
@@ -213,7 +213,7 @@ function Voicebanks() {
       </div>
 
       <div className='singer-boxcard'>
-        <img src={import.meta.env.BASE_URL + "/arts/boxcard-old.png"} alt="not a GRAPEICHI" />
+        <img src={"/arts/boxcard-old.png"} alt="not a GRAPEICHI" />
         <div className='singer-content'>
           <div className='singer-info'>
             <h3>Daichi CVVC Power</h3>
@@ -223,7 +223,7 @@ function Voicebanks() {
           </div>
           <div className='demo-players'>
             <audio controls>
-              <source src={import.meta.env.BASE_URL + "/demos/cvvcpower/zhopa.mp3"} type="audio/mpeg" />
+              <source src={"/demos/cvvcpower/zhopa.mp3"} type="audio/mpeg" />
             </audio>
           </div>
           <a href="/downloads/daichi.zip" className='download-btn'>
@@ -233,7 +233,7 @@ function Voicebanks() {
       </div>
 
       <div className='singer-boxcard'>
-        <img src={import.meta.env.BASE_URL + "/arts/boxcard-old.png"} alt="not a GRAPEICHI" />
+        <img src={"/arts/boxcard-old.png"} alt="not a GRAPEICHI" />
         <div className='singer-content'>
           <div className='singer-info'>
             <h3>Daichi VCV Old</h3>
@@ -243,7 +243,7 @@ function Voicebanks() {
           </div>
           <div className='demo-players'>
             <audio controls>
-              <source src={import.meta.env.BASE_URL + "/demos/vcvold/pressf.mp3"} type="audio/mpeg" />
+              <source src={"/demos/vcvold/pressf.mp3"} type="audio/mpeg" />
             </audio>
           </div>
           <a href="/downloads/daichi.zip" className='download-btn'>
