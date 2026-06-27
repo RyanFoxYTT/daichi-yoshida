@@ -226,7 +226,7 @@ function Voicebanks() {
               <source src={"/demos/cvvcpower/zhopa.mp3"} type="audio/mpeg" />
             </audio>
           </div>
-          <a href="/downloads/daichi.ziphttps://github.com/RyanFoxYTT/daichi-yoshida/releases/download/cvvcpwr/DAICHI.CVVC.POWER.zip" className='download-btn'>
+          <a href="https://github.com/RyanFoxYTT/daichi-yoshida/releases/download/cvvcpwr/DAICHI.CVVC.POWER.zip" className='download-btn'>
             Download Voicebank
           </a>
         </div>
