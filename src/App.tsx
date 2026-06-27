@@ -7,7 +7,7 @@ import Voicebanks from './pages/Voicebanks';
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/daichi-yoshida">
     <div style={{ position: 'relative', minHeight: '100vh' }}> 
       <ClickSpark
         sparkColor="#f9ceff"
