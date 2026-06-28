@@ -4,10 +4,12 @@ import ClickSpark from './components/ui/ClickSpark';
 import FloatingLines from './components/ui/FloatingLines';
 import Home from './pages/Home';
 import Voicebanks from './pages/Voicebanks';
+import { Analytics } from "@vercel/analytics/next"
 
 function App() {
   return (
     <BrowserRouter>
+    <Analytics />
     <div style={{ position: 'relative', minHeight: '100vh' }}> 
       <ClickSpark
         sparkColor="#f9ceff"
