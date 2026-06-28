@@ -4,7 +4,7 @@ import ClickSpark from './components/ui/ClickSpark';
 import FloatingLines from './components/ui/FloatingLines';
 import Home from './pages/Home';
 import Voicebanks from './pages/Voicebanks';
-import { Analytics } from "@vercel/analytics/next"
+import { Analytics } from "@vercel/analytics/react"
 
 function App() {
   return (
