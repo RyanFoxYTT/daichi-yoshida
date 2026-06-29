@@ -152,6 +152,27 @@ function Voicebanks() {
       </div>
 
       <div className='singer-boxcard'>
+        <img src={"/arts/grapechi.png"} alt="GRAPEICHI" />
+        <div className='singer-content'>
+          <div className='singer-info'>
+            <h3>Grapeichi</h3>
+            <p>Languages: 🇯🇵</p>
+            <p>Pithes: Mono</p>
+            <p>UTAU</p>
+            <p>eto pizdec</p>
+          </div>
+          <div className='demo-players'>
+            <audio controls>
+              <source src={"/demos/grapeichi/pizdec.mp3"} type="audio/mpeg" />
+            </audio>
+          </div>
+          <a href="https://github.com/RyanFoxYTT/daichi-yoshida/releases/download/GRAPEICHI!!!/Grapechi.CV.V2.zip" className='download-btn'>
+            Download Voicebank
+          </a>
+        </div>
+      </div>
+
+      <div className='singer-boxcard'>
         <img src={"/arts/boxcard-old.png"} alt="not a GRAPEICHI" />
         <div className='singer-content'>
           <div className='singer-info'>
